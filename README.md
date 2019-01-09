@@ -26,9 +26,9 @@ Project is created with:
 
 ### Approach:
 1. Data pre-processing
-  * Removal of punctuations and noise from job descriptions
-  * Removal of stop words
-  * Lemmatization
+	  * Removal of punctuations and noise from job descriptions
+	  * Removal of stop words
+	  * Lemmatization
 2. Classification using just categorical variables other than job description
 3. Classification using Job description using different algorithms
 4. Conclusion
